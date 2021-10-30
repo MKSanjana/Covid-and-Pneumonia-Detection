@@ -8,7 +8,7 @@ The COVID-19 pandemic has wreaked havoc in the daily life of human beings and de
    
    
  # Dataset :-
-    https://drive.google.com/drive/folders/1e_oAxzxHZpQwMOw21LaOB9KRD1iVugaG?usp=sharing
+   https://drive.google.com/drive/folders/1e_oAxzxHZpQwMOw21LaOB9KRD1iVugaG?usp=sharing
  
  
  # Output :-
