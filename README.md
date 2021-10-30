@@ -4,8 +4,10 @@ The COVID-19 pandemic has wreaked havoc in the daily life of human beings and de
 
 
 # Model :-
-    https://drive.google.com/file/d/15rezH4qaENBDz8tttt9IExavSVQBBkzu/view?usp=sharing
-    
+   https://drive.google.com/file/d/15rezH4qaENBDz8tttt9IExavSVQBBkzu/view?usp=sharing
+   
+ #Dataset :-
+    https://drive.google.com/drive/folders/1e_oAxzxHZpQwMOw21LaOB9KRD1iVugaG?usp=sharing
  
  # Output :-
   ![WhatsApp Image 2021-10-30 at 8 32 23 PM](https://user-images.githubusercontent.com/86011193/139543810-aa580d4a-f7e9-4214-9058-3bc4056b35b9.jpeg)
